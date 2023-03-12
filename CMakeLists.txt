@@ -3,4 +3,4 @@ project(testtest)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(testtest main.cpp)
+add_executable(testtest main.cpp testing.cpp)
